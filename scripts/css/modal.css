@@ -1,0 +1,39 @@
+﻿.link_topo:link,
+.link_topo:visited,
+.link_topo:active 
+{
+    color: #FFF;
+    text-decoration: none;
+}
+
+.link_topo:hover 
+{
+    color: #FFF;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+#mbox
+{
+    position: absolute;
+    display: none;
+    background-color: #fff;
+    border: 1px solid #aaa;
+    padding: 0;
+    z-index: 1000;
+}
+
+#ModalBG
+{
+    background-color: #333;
+    display: none;
+    filter: alpha(opacity=30);
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    left: 0;
+    top: 0;
+    opacity: .40;
+    z-index: 999;
+}
+

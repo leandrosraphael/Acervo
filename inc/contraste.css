@@ -1,0 +1,296 @@
+﻿.contraste * {
+    color: #FFFFFF !important;
+    background-color: #000000 !important;
+}
+
+.contraste input[type='text'] { 
+	border: 1px solid #FFFFFF !important;
+    color: #FFFFFF;
+}
+
+.contraste input[type='password'] { 
+	border: 1px solid #FFFFFF !important;
+    color: #FFFFFF;
+}
+
+.contraste textarea { 
+	border: 1px solid #FFFFFF !important;
+    color: #FFFFFF !important;
+}
+
+.contraste button.ui-multiselect { 
+	border: 1px solid #FFFFFF !important;
+}
+
+.contraste .ui-widget-content {
+    background: #000000 !important;
+}
+
+.contraste .ui-multiselect-menu  .ui-widget-header {
+	background: none no-repeat #000000 !important;
+	border: none;
+}
+
+.contraste .ui-widget-header {
+	background: none no-repeat #000000 !important;
+	border: #FFFFFF !important;
+}
+
+.contraste .ui-multiselect-buttonlabel {
+    background: none !important;
+}
+
+.contraste .ui-state-default {
+	background: none no-repeat #000000 !important;
+}
+
+.contraste #idiomasDiv {
+    width: 300px !important;
+}
+
+.contraste #home_slide_content_div  {
+	background-color: transparent !important;
+}
+
+.contraste .slide_mensagens_topo  {
+	background-color: #000000 !important;
+}
+
+.contraste div.loading {
+	background-color: transparent !important;
+}
+
+.contraste input:-webkit-autofill {
+    -webkit-box-shadow: 0 0 0px 1000px #000000 inset !important;
+    -webkit-text-fill-color: #FFFFFF !important;
+}
+
+.contraste .td_tabelas_valor1 {
+    border-bottom: 1px solid #ccc  !important;
+}
+
+.contraste .td_tabelas_valor2 {
+    border-bottom: 1px solid #ccc  !important;
+}
+
+.contraste .td_tabelas_titulo.centro {
+    border-bottom: 1px solid #ccc  !important;
+}
+
+.contraste #idiomasDiv > span > span > .k-input {
+    width: 130px !important;
+}
+
+.contraste .background_aba_inativa {
+    color: #FFFFFF  !important;
+}
+
+.contraste .background_aba_ativa > a,
+.contraste .background_aba_ativa > a > span {
+    color: #FC0  !important;
+}
+
+.contraste .destaca_palavras {
+    color: #FFFF00 !important;
+}
+
+.contraste .link_menu_serv1 span,
+.contraste .link_menu_serv1:link,
+.contraste .link_menu_serv1:visited,
+.contraste .link_menu_serv1:active,
+.contraste .link_menu1:link,
+.contraste .link_menu1:visited,
+.contraste .link_menu1:active { 
+	 background-color: #333 !important;
+     color: #FFFFFF !important;
+}
+
+.contraste .link_menu_serv1:hover,
+.contraste .link_menu1:hover,
+.contraste .link_menu1:hover > span { 
+	color: #FC0 !important;
+}
+
+.contraste .link_menu_serv2 span,
+.contraste .link_menu_serv2:link,
+.contraste .link_menu_serv2:visited,
+.contraste .link_menu_serv2:active,
+.contraste .link_menu2:link,
+.contraste .link_menu2:visited,
+.contraste .link_menu2:active,
+.contraste .link_menu1:active > span,
+.contraste .link_menu2:link > span,
+.contraste .link_menu2:visited > span { 
+	 background-color: #333 !important;
+     color: #FC0 !important;
+}
+
+.contraste .link_menu_serv2:hover,
+.contraste .link_menu2:hover { 
+	color: #FC0 !important;
+}
+
+.contraste .menu_acessibilidade {
+    background-color: #333 !important;
+    border-bottom: 1px solid #FFFFFF !important;
+}
+
+.contraste .span_acessibilidade {
+    background-color: #333 !important;
+}
+
+.contraste .span-menu-item,
+.contraste .span-menu-item span{
+	background-color: #333 !important;
+}
+
+.contraste .td_tabelas_titulo,
+.contraste .td_tabelas_titulo b {
+	background-color: #333 !important;
+}
+
+.contraste .td_ficha_esq {
+	background-color: #333 !important;
+}
+
+.contraste .background_aba_ativa {
+	color: #333 !important;
+}
+
+.contraste .td_servicos_titulo,
+.contraste .td_servicos_titulo a, 
+.contraste .td_servicos_titulo b,
+.contraste .td_servicos_titulo td,
+.contraste .td_servicos_titulo span,
+.contraste .td_servicos_titulo div{
+	background-color: #333 !important;
+}
+
+.contraste .div-servicos span,
+.contraste .div-servicos div,
+.contraste .div-servicos span a{
+	background-color: #333 !important;
+}
+
+.contraste .a-outro-servico {
+	background-color: #333 !important;
+}
+
+.contraste .popup_cabecalho_background,
+.contraste .popup_cabecalho_background a,
+.contraste .popup_cabecalho_background span,
+.contraste .popup_cabecalho_background div,
+.contraste .popup_cabecalho_fonte > span {
+	background-color: #333 !important;
+}
+
+.contraste .ul-faceta > li.titulo-faceta > span {
+    color: #FC0 !important; 
+}
+
+.contraste .link_abas:hover,
+.contraste .link_abas:hover > span,
+.contraste .link_abas_srv:hover,
+.contraste .link_abas_srv:hover > span { 
+	color: #FC0 !important;
+}
+
+.contraste .ficha_detalhes,
+.contraste .ficha_detalhes > b {
+	background-color: #333 !important;
+}
+
+.contraste .marc_tags,
+.contraste .marc_tags > b {
+	background-color: #333 !important;
+}
+
+.contraste .link_menu1 > img,
+.contraste .link_menu2 > img,
+.contraste .link_menu1 span,
+.contraste .link_menu2 span {
+    background-color: #333 !important;
+}
+
+.contraste .span-banner {
+    background: none !important;
+}
+
+.contraste .td_faceta_cabecalho,
+.contraste .td_faceta_cabecalho > span {
+    background-color: #333 !important;
+}
+
+.contraste .tab_paginacao td,
+.contraste .tab_paginacao a,
+.contraste .tab_paginacao b,
+.contraste .tab_paginacao span,
+.contraste .tab_paginacao p,
+.contraste .tab_paginacao div {
+	background-color: #333 !important;
+}
+
+.contraste .paginacao_link_atual {
+    color: #FC0 !important;
+}
+
+.contraste .div_capa,
+.contraste .div_capa > span {
+    background: none !important;
+}
+
+.contraste .div-ultima-aquisicao-info-capa,
+.contraste .div-ultima-aquisicao-info-capa > span {
+    background: none !important;
+}
+
+.contraste .td_acessibilidade th,
+.contraste .td_acessibilidade tr, 
+.contraste .td_acessibilidade td {
+    border: 1px solid #FFFFFF !important;
+}
+
+.contraste .link_serv:hover,
+.contraste .link_serv:active { 
+    color: #FC0 !important;
+}
+
+.contraste .descritor {
+    background-color: #333 !important;
+}
+
+.contraste .td_detalhe_descricao,
+.contraste .td_detalhe_descricao b,
+.contraste .td_detalhe_descricao span,
+.contraste .td_detalhe_descricao_recuo,
+.contraste .td_leg_descricao {
+	background-color: #333 !important;
+}
+
+.contraste .treeview .hitarea {
+	background-color: transparent !important;
+}
+
+.contraste .pipeAcessibilidade {
+    background-color: #333 !important;
+}
+
+.contraste input[type='search'] { 
+	border: 1px solid #FFFFFF !important;
+    color: #FFFFFF;
+}
+
+.contraste .area_login_menu_principal {
+	background-color: #333 !important;
+	border-bottom: 1px solid #FFFFFF !important;
+}
+
+.contraste .area_login_menu_principal span,
+.contraste .area_login_menu_principal b {
+	background-color: #333 !important;
+}
+
+.contraste .link_serv_custom:hover,
+.contraste .link_serv_custom:active {
+    color: #FC0 !important;
+}

@@ -1,0 +1,322 @@
+﻿body {
+    margin: auto;
+    width: 800px;
+}
+            
+#principal {
+    padding: 5px;
+    text-align: left;
+    margin: 5px;    
+}
+
+    #principal p {
+        font-weight: bold;        
+    }
+                        
+fieldset#dados-solicitante {
+    margin: 0;
+}
+            
+.div-form {
+    display: inline-block;
+}
+
+#div#solicitante {
+    width: 90%;
+    margin-top: 10px;
+}
+
+#input-nome-instituicao {
+    float: right;
+    width: 70%;    
+}
+
+#input-tipo-instituicao {
+    float: left;
+    width: 50%;
+    padding-right: 5px;
+    margin-top: 5px;
+}
+            
+input[type]:not([type=radio]):not([type=checkbox]) {
+    width: 100%;
+    margin: 0;
+}
+
+.editRadio {
+    font-size: 10pt;
+    padding-right: 15px;
+}
+
+input[type=radio] {
+    cursor: pointer;
+    margin-top: -2px;
+    margin-right: 5px;
+}
+           
+#tipo-instituicao {
+    height: 17pt;
+    width: 45%;
+}
+
+div#dados-instituicao {
+    width: 100%;
+    margin-top: 10px;
+}
+
+#input-documento {
+    float: left;    
+    width: 25%;
+}
+            
+div#endereco {
+    width: 100%;
+}
+            
+div#localizacao {
+    width: 100%;
+}
+            
+#input-endereco {
+    float: left;
+    width: inherit;
+}
+            
+#input-cidade {
+    float: left;
+    width: 68%;
+    padding-right: 5px;
+}
+            
+#input-uf {
+    float: left;
+    width: 10%;
+    padding-left: 5px;
+}
+            
+#uf-solicitante {
+    height: 16pt;
+    width: 70%;
+}
+            
+#input-cep {
+    float: right;
+    width: 20%;
+}
+            
+/* Responsável */
+
+fieldset#dados-responsavel {
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 10px;
+}
+
+div#responsavel{
+    width: 100%;
+    margin-top: 5px;
+}
+
+div#responsavel-outros {
+    width: 100%;    
+}
+
+#input-nome-responsavel {
+    float: left;
+    width: 45%;
+    padding-right: 5px;
+}
+            
+#input-email {
+    float: right;
+    width: 50%;
+}
+
+#input-cargo-cpf {
+    float: left;
+    width: 45%;
+}
+#input-cargo-responsavel {
+    float: left;
+    width: 45%;
+    padding-right: 5px;
+}
+
+#input-cpf {
+    float: right;
+    width: 45%;
+}
+
+#input-rg-fone {
+    float: right;
+    width: 50%;
+}
+            
+#input-rg {
+    float: left;
+    width: 45%;
+}
+            
+#input-telefone {
+    float: right;
+    width: 50%;
+}
+
+div#endereco-resp {
+    width: 100%;
+}
+
+div#localizacao-responsavel {
+    width: 100%;
+}
+
+#input-endereco-responsavel {
+    float: left;
+    width: inherit;
+}
+
+#input-cidade-responsavel {
+    float: left;
+    width: 68%;
+    padding-right: 5px;
+}
+
+#input-uf-responsavel {
+    float: left;
+    width: 10%;
+    padding-left: 5px;
+}
+
+#uf-responsavel {
+    height: 16pt;
+    width: 70%;
+}
+
+#input-cep-responsavel {
+    float: right;
+    width: 20%;
+}
+            
+/* Destinação */
+
+fieldset#dados-destinacao {
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 10px;
+    width: 100%;
+}
+
+div#destinacao-publicacao {
+    width: 100%;
+    padding: 0 4px;
+}
+
+div#destinacao-finalidade {
+    width: 100%;
+    padding: 0 4px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+div#destinacao-finalidade > .ui-multiselect,
+div#destinacao-finalidade > .ui-multiselect > .ui-multiselect-buttonlabel {
+    width: 100% !important;
+}
+ 
+#input-destinacao {
+    float: left;
+    width: 45%;
+    margin-top: 20px;
+}
+
+#input-destinacao-outros {
+    float: right;
+    width: 50%;
+    padding-right: 5px;
+}
+
+           
+.chk-destinacao {
+    vertical-align: top;
+    padding-left: 5px;
+    padding-right: 5px;
+    line-height: 14px;
+}
+                
+#input-destinacao,
+#input-destinacao-outros {
+    margin-bottom: 10px;
+}
+
+#finalidade-imagem {
+    width: 100%;
+}
+
+div#publico-alvo-adicionais {
+    width: 100%;
+}
+
+#input-publico-alvo {
+    float: left;
+    width: 45%;
+    padding-right: 5px;
+    padding-left: 5px;
+}
+
+#input-informacoes-adicionais {
+    float: right;
+    width: 50%;
+}
+            
+#finalidade-imagem {
+    height: 16pt;
+}
+            
+fieldset#termos {
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 10px;
+}
+            
+#termos-aceitacao {
+    width: 100%;
+}
+            
+#termo-uso {
+    float: left;
+    width: 50%;
+    margin-top: 5px;
+}
+            
+#termo-politica {
+    float: right;
+    margin-top: 5px;
+}
+
+#rodape-solicitacao-imagem {
+    text-align: center;
+    margin-top: 5px;
+}
+
+#confirma-solicitacao-imagem {
+    width: 80px;
+}
+
+#uf-solicitante {
+    width: 75px;
+}
+
+#uf-responsavel {
+    width: 75px;
+}
+
+.ui-multiselect-menu:last-child {
+    height: 100px;
+}
+
+.ui-multiselect-menu:last-child  > ul {
+    height: 100% !important;
+}
+
+
+

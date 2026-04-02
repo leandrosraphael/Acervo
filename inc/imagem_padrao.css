@@ -1,0 +1,613 @@
+﻿.icon-paper {
+    background-image: url(../imagens/padrao/icon-paper.png); 
+}
+
+.icon-book {
+    background-image: url(../imagens/padrao/icon-book.png); 
+}
+
+.icon-rules {
+    background-image: url(../imagens/padrao/icon-rules.png); 
+}
+
+.icon-document {
+    background-image: url(../imagens/padrao/icon-document.png); 
+}
+
+.icon-small-search {
+    background-image: url(../imagens/padrao/icon-small-search.png); 
+}
+
+.icon-small-search-h,
+.icon-small-search-hover {
+    background-image: url(../imagens/padrao/icon-small-search-h.png); 
+}
+
+.icon-small-search-w {
+    background-image: url(../imagens/padrao/icon-small-search-w.png); 
+}
+
+.icon-small-search-w2 {
+    background-image: url(../imagens/padrao/icon-small-search-w2.png); 
+}
+
+.icon-small-down-b {
+    background-image: url(../imagens/padrao/icon-small-down-b.png); 
+}
+
+.icon-small-next-b {
+    background-image: url(../imagens/padrao/icon-small-next-b.png); 
+}
+
+.icon-small-delete-b {
+    background-image: url(../imagens/padrao/icon-small-delete-b.png); 
+}
+
+.icon-small-previous {
+    background-image: url(../imagens/padrao/icon-small-previous.png); 
+}
+
+.icon-small-next {
+    background-image: url(../imagens/padrao/icon-small-next.png); 
+}
+
+.icon-small-first {
+    background-image: url(../imagens/padrao/icon-small-first.png); 
+}
+
+.icon-small-last {
+    background-image: url(../imagens/padrao/icon-small-last.png); 
+}
+
+.mozilla_blu {
+    background-image: url(../imagens/padrao/mozilla_blu.gif); 
+}
+
+.icon-small-circ {
+    background-image: url(../imagens/padrao/icon-small-circ.png); 
+}
+
+.icon-small-save-b {
+    background-image: url(../imagens/padrao/icon-small-save-b.png); 
+}
+
+.icon-small-save {
+    background-image: url(../imagens/padrao/icon-small-save.png); 
+}
+
+.icon-small-delete-b-h,
+.icon-small-delete-b-hover {
+    background-image: url(../imagens/padrao/icon-small-delete-b-h.png); 
+}
+
+.icon-small-delete-w2 {
+    background-image: url(../imagens/padrao/icon-small-delete-w2.png); 
+}
+
+.icon-small-lamp {
+    background-image: url(../imagens/padrao/icon-small-lamp.png); 
+}
+
+.icon-small-newsearch {
+    background-image: url(../imagens/padrao/icon-small-newsearch.png); 
+}
+
+.icon-small-check {
+    background-image: url(../imagens/padrao/icon-small-check.png); 
+}
+
+.icon-small-delete {
+    background-image: url(../imagens/padrao/icon-small-delete.png); 
+}
+
+.icon-small-star {
+    background-image: url(../imagens/padrao/icon-small-star.png); 
+}
+
+.icon-small-selecao {
+    background-image: url(../imagens/padrao/icon-small-selecao.png); 
+}
+
+.icon-seta-baixo {
+    background-image: url(../imagens/padrao/icon-seta-baixo.png); 
+}
+
+.icon-seta-cima {
+    background-image: url(../imagens/padrao/icon-seta-cima.png); 
+}
+
+.icon-small-back {
+    background-image: url(../imagens/padrao/icon-small-back.png); 
+}
+
+.joinbottom {
+        background-image: url(../imagens/joinbottom.gif); 
+}
+
+.capa_audio {
+    background-image: url(../imagens/capa_audio.jpg); 
+}
+
+.capa_fantasia {
+    background-image: url(../imagens/capa_fantasia.png); 
+}
+
+div.assuntoImg,
+span.assuntoImg {
+	background-image: url(../imagens/padrao/icon-small-Information.png);
+}
+
+div.autImg,
+span.autImg {
+	background-image: url(../imagens/padrao/icon-small-user-w.png);
+}
+
+.icon-small-digital {
+	background-image: url(../imagens/padrao/icon-small-digital.png);
+}
+
+.icon-small-digital-h,
+.icon-small-digital-hover {
+	background-image: url(../imagens/padrao/icon-small-digital-h.png);
+}
+
+.icon-small-audio {
+	background-image: url(../imagens/padrao/icon-small-audio.png);
+}
+
+.icon-small-audio-h,
+.icon-small-audio-hover {
+	background-image: url(../imagens/padrao/icon-small-audio-h.png);
+}
+
+.icon-small-digital-b {
+	background-image: url(../imagens/padrao/icon-small-digital-b.png);
+}
+
+.icon-small-star-x {
+    background-image: url(../imagens/padrao/icon-small-star-x.png);
+    vertical-align: text-bottom;
+}
+
+.icon-small-star-b {
+	background-image: url(../imagens/padrao/icon-small-star-b.png);
+}
+
+.icon-small-selecao-b {
+	background-image: url(../imagens/padrao/icon-small-selecao-b.png);
+}
+
+.icon-small-book-b {
+	background-image: url(../imagens/padrao/icon-small-book-b.png);
+}
+
+.icon-small-baloonadd {
+	background-image: url(../imagens/padrao/icon-small-baloonadd.png);
+}
+
+.icon-small-baloonadd-w {
+	background-image: url(../imagens/padrao/icon-small-baloonadd-w.png);
+}
+
+.icon-small-flag-b {
+	background-image: url(../imagens/padrao/icon-small-flag-b.png);
+}
+
+.icon-small-flag-b-h,
+.icon-small-flag-b-hover {
+	background-image: url(../imagens/padrao/icon-small-flag-b-h.png);
+}
+
+.icon-small-flag-x {
+	background-image: url(../imagens/padrao/icon-small-flag-x.png);
+}
+
+.icon-small-lamp-b {
+	background-image: url(../imagens/padrao/icon-small-lamp-b.png);
+}
+
+.icon-small-lamp-b-h,
+.icon-small-lamp-b-hover {
+	background-image: url(../imagens/padrao/icon-small-lamp-b-h.png);
+}
+
+
+.mais-png {
+	background-image: url(../imagens/padrao/mais.png);
+}
+
+.alerta0 {
+	background-image: url(../imagens/padrao/alerta0.png);
+}
+
+.icon-small-collection {
+	background-image: url(../imagens/padrao/icon-small-collection.png);
+}
+
+.icon-small-print {
+	background-image: url(../imagens/padrao/icon-small-print.png);
+}
+
+.icon-small-print-b-h,
+.icon-small-print-hover {
+	background-image: url(../imagens/padrao/icon-small-print-b-h.png);
+}
+
+.help-facebook-username-en-us {
+    background-image: url(../imagens/help-facebook-username-en-us.jpg);
+}
+
+.help-facebook-info-en-us {
+    background-image: url(../imagens/help-facebook-info-en-us.jpg);
+}
+
+.help-facebook-add-friend-en-us {
+    background-image: url(../imagens/help-facebook-add-friend-en-us.jpg);
+}
+
+.help-facebook-other-inbox-en-us {
+    background-image: url(../imagens/help-facebook-other-inbox-en-us.jpg);
+}
+
+.help-facebook-username-es-ca {
+    background-image: url(../imagens/help-facebook-username-es-ca.jpg);
+}
+
+.help-facebook-info-es-ca {
+    background-image: url(../imagens/help-facebook-info-es-ca.jpg);
+}
+
+.help-facebook-add-friend-es-ca {
+    background-image: url(../imagens/help-facebook-add-friend-es-ca.jpg);
+}
+
+.help-facebook-other-inbox-es-ca {
+    background-image: url(../imagens/help-facebook-other-inbox-es-ca.jpg);
+}
+
+.help-facebook-username-es-es {
+    background-image: url(../imagens/help-facebook-username-es-es.jpg);
+}
+
+.help-facebook-info-es-es {
+    background-image: url(../imagens/help-facebook-info-es-es.jpg);
+}
+
+.help-facebook-add-friend-es-es {
+    background-image: url(../imagens/help-facebook-add-friend-es-es.jpg);
+}
+
+.help-facebook-other-inbox-es-es {
+    background-image: url(../imagens/help-facebook-other-inbox-es-es.jpg);
+}
+
+.help-facebook-username {
+    background-image: url(../imagens/help-facebook-username.jpg);
+}
+
+.help-facebook-info {
+    background-image: url(../imagens/help-facebook-info.jpg);
+}
+
+.help-facebook-add-friend {
+    background-image: url(../imagens/help-facebook-add-friend.jpg);
+}
+
+.help-facebook-other-inbox {
+    background-image: url(../imagens/help-facebook-other-inbox.jpg);
+}
+
+.icon-small-document-b-h,
+.icon-small-document-b-hover {
+    background-image: url(../imagens/padrao/icon-small-document-b-h.png);
+}
+
+.icon-small-document-b {
+    background-image: url(../imagens/padrao/icon-small-document-b.png);
+}
+
+.icon-small-book-b-h,
+.icon-small-book-b-hover {
+    background-image: url(../imagens/padrao/icon-small-book-b-h.png);
+}
+
+.barra-png {
+    background-image: url(../imagens/padrao/barra.png);
+}
+
+.icon-small-card {
+    background-image: url(../imagens/padrao/icon-small-card.png);
+}
+
+.icon-small-certidao-negativa {
+    background-image: url(../imagens/padrao/icon-small-certidao-negativa.png);
+}
+
+.icon-home {
+    background-image: url(../imagens/padrao/icon-home.png);
+}
+
+.icon-search {
+    background-image: url(../imagens/padrao/icon-search.png);
+}
+
+.icon-user {
+    background-image: url(../imagens/padrao/icon-user.png);
+}
+
+.icon-user-black {
+    background-image: url(../imagens/padrao/icon-user-black.png);
+}
+
+.icon-star {
+    background-image: url(../imagens/padrao/icon-star.png);
+}
+
+.icon-selecao {
+    background-image: url(../imagens/padrao/icon-selecao.png);
+}
+
+.icon-services {
+    background-image: url(../imagens/padrao/icon-services.png);
+}
+
+.icon-key {
+    background-image: url(../imagens/padrao/icon-key.png);
+}
+
+.icon-help {
+    background-image: url(../imagens/padrao/icon-help.png);
+}
+
+.icon-small-message {
+    background-image: url(../imagens/padrao/icon-small-message.png);
+}
+
+.icon-small-circ {
+    background-image: url(../imagens/padrao/icon-small-circ.png);
+}
+
+.icon-small-flag {
+    background-image: url(../imagens/padrao/icon-small-flag.png);
+}
+
+.icon-small-books {
+    background-image: url(../imagens/padrao/icon-small-books.png);
+}
+
+.icon-small-board {
+    background-image: url(../imagens/padrao/icon-small-board.png);
+}
+
+.icon-small-category {
+    background-image: url(../imagens/padrao/icon-small-category.png);
+}
+
+.icon-small-key {
+    background-image: url(../imagens/padrao/icon-small-key.png);
+}
+
+.icon-small-downarrow {
+    background-image: url(../imagens/padrao/icon-small-downarrow.png);
+}
+
+.icon-small-globe-w {
+    background-image: url(../imagens/padrao/icon-small-globe-w.png);
+}
+
+.icon-small-openfolder {
+    background-image: url(../imagens/padrao/icon-small-openfolder.png);
+}
+
+.icon-small-clear {
+    background-image: url(../imagens/padrao/icon-small-clear.png);
+}
+
+.icon-small-document {
+    background-image: url(../imagens/padrao/icon-small-document.png);
+}
+
+.icon-small-qrcode {
+	background-image: url(../imagens/icon-small-qrcode.png);
+}
+
+.icon-small-collection-h,
+.icon-small-collection-hover {
+    background-image: url(../imagens/padrao/icon-small-collection-h.png);
+}
+
+.icon-paginacao-on {
+    background-image: url(../imagens/padrao/icon-paginacao-on.png);
+}
+
+.icon-paginacao-off {
+    background-image: url(../imagens/padrao/icon-paginacao-off.png);
+}
+
+.erro {
+    background-image: url(../imagens/padrao/erro.jpg);
+}
+
+.vazio {
+    background-image: url(../imagens/vazio.png);
+}
+
+.icon-small-edit-w {
+    background-image: url(../imagens/padrao/icon-small-edit-w.png);
+}
+
+.icon-small-edit {
+    background-image: url(../imagens/padrao/icon-small-edit.png);
+}
+
+.icon-txt {
+    background-image: url(../imagens/padrao/icon-txt.png);
+}
+
+.icon-pdf {
+    background-image: url(../imagens/icon-pdf.png);
+}
+
+.icon-lattes {
+    background-image: url(../imagens/padrao/icon-lattes.png);
+}
+
+.icon-loc {
+    background-image: url(../imagens/padrao/icon-loc.png);
+}
+
+.icon-csh {
+    background-image: url(../imagens/padrao/icon-csh.png);
+}
+
+.icon-mesh {
+    background-image: url(../imagens/padrao/icon-mesh.png);
+}
+
+.icon-nal {
+    background-image: url(../imagens/padrao/icon-nal.png);
+}
+
+.icon-rvm {
+    background-image: url(../imagens/padrao/icon-rvm.png);
+}
+
+.estrela_cheia {
+    background-image: url(../imagens/estrela_cheia.png);
+}
+
+.estrela_vazia {
+    background-image: url(../imagens/estrela_vazia.png);
+}
+
+.estrela_metade {
+    background-image: url(../imagens/estrela_metade.png);
+}
+
+.logo_rodape_ph_esp {
+    background-image: url(../imagens/padrao/logo_rodape_ph_esp.png);
+}
+
+.logo_rodape_ph_ing {
+    background-image: url(../imagens/padrao/logo_rodape_ph_ing.png);
+}
+
+.logo_rodape_ph_gal {
+    background-image: url(../imagens/padrao/logo_rodape_ph_gal.png);
+}
+
+.logo_rodape_ph_eus {
+    background-image: url(../imagens/padrao/logo_rodape_ph_eus.png);
+}
+
+.logo_rodape_ph {
+    background-image: url(../imagens/padrao/logo_rodape_ph.png);
+}
+
+.logo_rodape {
+    background-image: url(../imagens/padrao/logo_rodape.png);
+}
+
+.icon-close {
+    background-image: url(../imagens/padrao/icon-close.png);
+}
+
+.icon-imagem-concedida {
+    background-image: url(../imagens/padrao/icon-small-imagem-concedida.png);
+}
+
+.icon-solicitar-imagem {
+    background-image: url(../imagens/padrao/icon-small-solicitar-imagem.png);
+}
+
+.pdf-control-prev {
+    left: -50px;
+    background-image: url(../imagens/padrao/icon-down.png);
+}
+
+.pdf-control-prev.side {
+     background-image: url(../imagens/padrao/icon-left.png);
+}
+
+.pdf-control-next {
+    right: -50px;
+    background-image: url(../imagens/padrao/icon-up.png);
+}
+
+.pdf-control-next.side {
+     background-image: url(../imagens/padrao/icon-right.png);
+}
+
+.pdf-control-zoomIn {
+    background-image: url(../imagens/padrao/icon-plus.png);
+}
+
+.pdf-control-zoomOut {
+    background-image: url(../imagens/padrao/icon-minus.png);
+}
+
+.pdf-control-expand {
+    background-image: url(../imagens/padrao/icon-expand.png);
+}
+
+.icon-rt-online {
+    background-image: url(../imagens/padrao/icon-rt-online.png);
+}
+
+.icon-book-lb {
+    background-image: url(../imagens/padrao/icon-book_lb.png); 
+    width: 21px;
+}
+
+.icon-book-up {
+    background-image: url(../imagens/padrao/icon-book-up.png);
+}
+
+.icon-book-down {
+    background-image: url(../imagens/padrao/icon-book-down.png);
+}
+
+.icon-key-login {
+	background-image: url(../imagens/padrao/icon-key.png);
+	background-size: 13px;
+	background-repeat: no-repeat;
+	width: 13px;
+	height: 13px;
+	padding-bottom: 1px;
+	padding-right: 1px;
+}
+
+.icon-repositorio {
+	background-image: url(../imagens/padrao/icon-repositorio-institucional.png);
+}
+
+.icon-indicadores {
+	background-image: url(../imagens/padrao/icon-indicadores.png);
+}
+
+.icon-trabalho-graduacao {
+	background-image: url(../imagens/padrao/icon-trabalho-graduacao.png);
+}
+
+.icon-tese-dissertacao {
+	background-image: url(../imagens/padrao/icon-tese-dissertacao.png);
+}
+
+.icon-links-uteis {
+	background-image: url(../imagens/padrao/icon-links-uteis.png);
+}
+
+.icon-rt-online-fundo-branco {
+    background-image: url(../imagens/logo-rt-small.png);
+    position: relative;
+    top: 4px;
+}
+
+.icon-vlex-online-fundo-branco {
+    background-image: url(../imagens/logo-vlex-small.png);
+    background-size: 32px;
+    width: 32px;
+    background-repeat: no-repeat;
+    position: relative;
+    top: 3px;
+}

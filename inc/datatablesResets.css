@@ -1,0 +1,40 @@
+﻿.dataTables_wrapper {
+	padding: 10px;
+}
+
+.dataTables_wrapper .dataTables_paginate .paginate_button:hover {
+	border: 1px solid #fff;
+	background: #ddd;
+	color: #333 !important
+}
+
+.dataTables_wrapper .dataTables_paginate .paginate_button.current,
+.dataTables_wrapper .dataTables_paginate .paginate_button.current:hover {
+	border: 1px solid #787878;
+	background: #ddd;
+}
+
+table.dataTable {
+	text-align: left;
+}
+
+table.dataTable thead th, table.dataTable thead td {
+	padding: 10px 9px;
+	border-bottom: 1px solid #787878;
+}
+
+table.dataTable tfoot th, table.dataTable tfoot td {
+	padding: 10px 18px 6px 9px;
+	border-top: 1px solid #111;
+}
+
+.dataTables_wrapper .dataTables_length {
+	float: none;
+	text-align: center;
+}
+
+.dataTables_wrapper .dataTables_paginate {
+	float: none;
+	text-align: center;
+	padding-top: 0.25em;
+}

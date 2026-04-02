@@ -1,0 +1,25 @@
+﻿#idiomas-list .k-item {
+    overflow: hidden; /* clear floated images */
+}
+				
+#idiomasDiv > span > span > .k-input
+{
+    padding-left: 20px;
+}
+				
+#template-div
+{
+	height: 30px;
+	line-height: 30px;
+}
+
+#template-div *
+{
+	display: inline;
+	vertical-align: middle;
+}
+				
+#template-div img
+{
+	margin-right: 5px;
+}

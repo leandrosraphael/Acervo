@@ -1,0 +1,44 @@
+﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Frameset//EN" "http://www.w3.org/TR/html4/frameset.dtd">
+<html>
+	<head>
+		<title>SophiA Acervo - Terminal WEB</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
+		<script language="JavaScript" src="scripts/jquery-1.7.1.min.js"></script>
+
+		<script>
+			$(document).ready(function () {
+				var url = "index.asp?1=1";
+				var content = window.sessionStorage.getItem('content');
+				if (content) {
+					url = url + "&content=" + content;
+				} 
+				var dados = window.sessionStorage.getItem('dados');
+				if (dados) {
+					url = url + "&dados=" + dados;
+				}
+				var tmp = window.sessionStorage.getItem('tmp');
+				if (tmp) {
+					url = url + "&tmp=" + tmp;
+				}
+				var tmp_objeto = window.sessionStorage.getItem('tmp_objeto');
+				if (tmp_objeto) {
+					url = url + "&tmp_objeto=" + tmp_objeto;
+				}
+				$("#mainFrame").attr("src", url);
+			});
+		</script>
+	</head>
+
+	<frameset rows="100%,*" framespacing="0">
+		<frame id="mainFrame" name="mainFrame" src="about:blank" noresize="noresize">
+		<frame name="hiddenFrame" src="sessionData.asp">
+	</frameset>
+
+	<noframes>
+		<body>
+			<center>Este site precisa de um browser com suporte à frames!<br> Por favor atualize seu browser!</center>
+		</body>
+	</noframes>
+</html>

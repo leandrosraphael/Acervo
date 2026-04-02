@@ -1,0 +1,107 @@
+﻿/* customizações do multiselect */
+.ui-multiselect {
+	border-radius: 0 !important;
+	background-color: #fff;
+	background-image: none;
+	border-color: #006699;
+	height: 22px;
+	font-size: 13px;
+	font-family: "Segoe UI", Frutiger, "Frutiger Linotype", "Dejavu Sans", "Helvetica Neue", Arial, sans-serif;
+	font-weight: normal;
+	color: #000;
+	padding-top: 1px;
+	vertical-align: top;
+	padding-left: 2px;
+	white-space: nowrap;
+}
+
+.ui-widget-header > .ui-multiselect-filter {
+	font-weight: normal;
+}
+
+.ui-multiselect-filter, 
+.ui-multiselect-filter input {
+	font-size: 13px;
+	font-family: "Segoe UI", Frutiger, "Frutiger Linotype", "Dejavu Sans", "Helvetica Neue", Arial, sans-serif;
+}
+
+.k-ie .ui-multiselect-filter > input {
+	height: 17px;
+}
+
+.k-ie11 .ui-multiselect-filter > input,
+.k-ff .ui-multiselect-filter > input {
+	height: 23px;
+}
+
+.ui-multiselect .ui-icon {
+	margin-top: -1px;
+	background-image: url('images/customSelect-arrow.gif');
+	background-position: center center;
+}
+
+.ui-multiselect-menu {
+	border-radius: 0 !important;
+	border-color: #CCCCCC !important;
+}
+
+.ui-multiselect-menu input[type="checkbox"] {
+	margin-right: 2px;
+}
+
+.ui-multiselect-menu .ui-widget-header {
+	border-radius: 0 !important;
+}
+
+.ui-multiselect-menu  .ui-state-hover, 
+.ui-multiselect-menu  .ui-state-active{
+	border-radius: 0 !important;
+}
+
+.ui-multiselect-menu  .ui-widget-header {
+	background: none no-repeat #CCCCCC !important;
+	border: none;
+}
+
+.ui-multiselect-menu  .ui-widget-header a {
+	color: #000 !important; 
+	font-weight: normal;
+}
+
+.ui-multiselect-menu .ui-icon {
+	background-image: url('images/ui-icons_dark-gray.png')
+}
+
+.ui-multiselect-menu .ui-state-hover,
+.ui-multiselect-menu .ui-state-active
+{
+	background: none no-repeat Highlight;
+	color: #fff;
+	font-weight: normal;
+}
+
+.ui-multiselect-checkboxes {
+	overflow-y: auto !important;
+}
+
+.ui-multiselect-buttonlabel {
+	display: inline-block;
+	overflow: hidden;
+}
+
+.selecao_servidor {
+	font-weight: bold; 
+}
+
+li.ui-multiselect-optgroup-label.grupo_selecao_servidor a {
+	padding: 0; 
+}
+
+.grupo_selecao_servidor {
+	font-weight: bold; 
+	border-top:1px solid 
+}
+
+.grupo_selecao_servidor_first {
+	font-weight: bold; 
+}

@@ -1,0 +1,55 @@
+﻿input[type='button'] {
+	text-align: center;
+	height: 25px;
+}
+
+img {
+	padding: 2px;
+}
+
+p {
+	height: 25px;
+}
+
+#botoes {
+	margin-top: 20px;
+}
+
+.divConteudo {
+	margin-top: 10px;
+	margin-bottom: 10px;
+	float: left;
+}
+
+.divAvaliacaoMedia {
+	background-color: White;
+	height: 135px;
+	width: 145px;
+	margin: 8px;
+	vertical-align: middle;
+} 
+
+.divAvaliacaoMedia > p {
+	padding: 0.2em;
+	height: auto;
+}
+
+.mediaAvaliacao {
+	font-size: 48px;
+	vertical-align: middle;
+}
+
+.div-BotaoFechar {
+	height: 30px;
+	width: 200px;
+	margin: auto;
+	text-align: center;
+ }
+
+.div-media {
+	margin-left: 10px;
+}
+
+.div-quantidades {
+	width: 25px;
+}

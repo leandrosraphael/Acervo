@@ -1,0 +1,141 @@
+﻿
+div li {
+	list-style-type: none;
+}
+
+div p:first-child {
+	margin: 3px;
+}
+
+.area-consulta {
+	text-align: left;
+	background-color: #DEDEDE;
+	padding: 5px 10px 20px 10px;
+}
+
+.area-consulta .titulo-consulta {
+	font-weight: bolder;
+	font-size: 1.5em;
+}
+
+.background-faceta {
+	background-color: #EFEFEF;
+}
+
+.area-faceta-consulta {
+	display: inline-block;
+	width: 25%;
+	vertical-align: top;
+	border: 1px solid #CECECE;
+}
+
+.lista-faceta-consulta {
+	display: block;
+}
+
+.item-faceta-consulta {
+	margin: 4px;
+	margin-left: 0;
+	line-height: 17px;
+	vertical-align: middle;
+	list-style-type: none;
+}
+
+.area-links-pesquisa,
+.area-links-pesquisa-doisniveis {
+	display: inline-block;
+	width: 73%;
+	margin-left: 13px;
+}
+
+.area-filtro-pesquisa {
+	padding: 5px;
+	margin-bottom: 5px;
+}
+
+.titulo-detalhe-pesquisa {
+	background-color: #DEDEDE;
+	border: 1px solid #CECECE;
+}
+
+.titulo-detalhe-pesquisa p span {
+	font-weight: bolder;
+	margin-right: 5px;
+}
+
+.area-links-pesquisa li {
+	line-height: 26px;
+	font-weight: 700;
+	padding-left: 10px;
+	background-color: #fff;
+	border-bottom: 1px #CECECE solid;
+}
+
+.nota-rodape-pesquisa {
+	text-align: right; 
+	background-color: #e9e9e9;
+}
+
+.label-entre {
+	display:inline-block; 
+	width: 18px; 
+	text-align: center;
+}
+
+.exibir-loading {
+	visibility: unset;
+}
+
+.esconder-loading {
+	visibility: hidden;
+}
+
+.area-conteudo {
+	text-align: left;
+	background-color: #e9e9e9;
+	padding-top: 10px;
+}
+
+.area-links-pesquisa-doisniveis {
+	background-color: #fff;
+}
+
+.area-links-pesquisa-doisniveis li {
+	line-height: 26px;
+	font-weight: normal;
+	padding-left: 30px;
+}
+
+.area-links-pesquisa-doisniveis .li-negrito {
+	padding-left: 0px;
+	padding-top: 10px;
+}
+
+.area-links-pesquisa-doisniveis .li-negrito > a {
+	padding-left: 15px;
+	font-weight: bold;
+}
+
+
+
+.area-links-pesquisa-doisniveis .lista-com-borda {
+	border-bottom: 1px #DEDEDE solid;
+	padding-bottom: 10px;
+}
+
+.area-faceta-consulta.background-faceta > div.conteudoTeseDissertacao {
+	margin-top: 15px;
+}
+
+.area-faceta-consulta.background-faceta > div:nth-of-type(2) {
+	margin-top: 0;
+}
+
+div p.nota-pesquisa {
+	margin: 3px;
+	display: inline-block;
+}
+
+div p.nota-pesquisa.nota-ita {
+	float: right;
+}

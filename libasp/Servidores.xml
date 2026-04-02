@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<servidores qtde="2" nome="Nome do grupo de servidores">
+	<servidor>
+		<ip>localhost</ip>
+		<porta>8099</porta>
+		<nome>Servidor 1</nome>
+		<bibliotecas>
+			<biblioteca>
+				<codigo>1</codigo>
+				<nome>Servidor 1 - Biblioteca 1</nome>
+			</biblioteca>
+			<biblioteca>
+				<codigo>2</codigo>
+				<nome>Servidor 1 - Biblioteca 2</nome>
+			</biblioteca>
+		</bibliotecas>
+	</servidor>
+	<servidor>
+		<ip>localhost</ip>
+		<porta>8099</porta>
+		<nome>Servidor 2</nome>
+		<bibliotecas>
+			<biblioteca>
+				<codigo>1</codigo>
+				<nome>Servidor 2 - Biblioteca 1</nome>
+			</biblioteca>
+			<biblioteca>
+				<codigo>2</codigo>
+				<nome>Servidor 2 - Biblioteca 2</nome>
+			</biblioteca>
+		</bibliotecas>
+	</servidor>
+</servidores>

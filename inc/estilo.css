@@ -1,0 +1,346 @@
+﻿/************************************************/
+/* DEFINIÇÕES DE CORES E ESTILO DO TERMINAL WEB */
+/************************************************/
+
+* {
+	padding: 0;
+	border: 0;
+	margin: 0;
+}
+
+table, tr, td, p, font, a { 
+	font: 13px "Segoe UI", Frutiger, "Frutiger Linotype", "Dejavu Sans", "Helvetica Neue", Arial, sans-serif; 
+	color: #000; 
+}
+
+table {
+	border-spacing: 0;
+}
+
+td {
+	padding: 2px;
+}
+
+body
+{ 
+	font: 13px "Segoe UI", Frutiger, "Frutiger Linotype", "Dejavu Sans", "Helvetica Neue", Arial, sans-serif; 
+	color: #000;
+	background: #776051;
+} 
+
+input[type='text'],
+input[type='password']
+{
+	padding: 1px;
+	font-size: 13px;
+	font-family: "Segoe UI", Frutiger, "Frutiger Linotype", "Dejavu Sans", "Helvetica Neue", Arial, sans-serif !important;
+	border: 1px solid #006699;
+	background-color: #FFFFFF;
+	height: 18px;
+}
+
+input[type='button'],
+input[type='submit']
+{ 
+	font-size: 13px;
+	font-family: "Segoe UI", Frutiger, "Frutiger Linotype", "Dejavu Sans", "Helvetica Neue", Arial, sans-serif !important;
+	border: 1px solid #aaaaaa;
+	background-color: #FFFFFF;
+	color: #000;
+	height: 22px;
+	padding-left: 8px;
+	padding-right: 8px;
+}
+
+textarea 
+{ 
+	font-size: 13px;
+	font-family: "Segoe UI", Frutiger, "Frutiger Linotype", "Dejavu Sans", "Helvetica Neue", Arial, sans-serif !important;
+	border: 1px solid #006699;
+	background-color: #FFFFFF;
+}
+
+select
+{
+	border: 1px solid #006699;
+	background-color: #FFFFFF;
+	height: 22px;
+	font: 13px "Segoe UI", Frutiger, "Frutiger Linotype", "Dejavu Sans", "Helvetica Neue", Arial, sans-serif; 	
+}
+
+#divNewMain
+{
+	width: 970px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #e9e9e9;
+	padding: 0px 10px 0px 10px;
+}
+
+#divTituloPesquisa 
+{
+	margin: auto;
+	width: 95%;
+	height: 20px;
+	text-align: left;
+	padding: 5px;
+	background-color: #3d2c2e;
+	color: #fff;
+}
+
+#divTituloPesquisa a,
+#divTituloPesquisa a:hover
+{
+	color: #fff;
+}
+
+.transparent-icon {
+	background-color: #632f00;
+	vertical-align: text-bottom;
+}
+
+.td_cabecalho_banner
+{
+	border: 0;
+	color: #000000;
+	height: 120px;
+	background-image: url('../imagens/banner.jpg');
+	background-repeat: no-repeat;
+	background-position: center center;
+}
+
+.td_cabecalho_banner span 
+{
+	font-family: "Segoe UI", Frutiger, "Frutiger Linotype", "Dejavu Sans", "Helvetica Neue", Arial, sans-serif; 
+	font-size: 30px; 
+	font-weight: Bold;
+	color: #ccc4bc;
+	text-align: left;
+}
+
+.input_busca 
+{
+	font: 13px "Segoe UI", Frutiger, "Frutiger Linotype", "Dejavu Sans", "Helvetica Neue", Arial, sans-serif;
+	border: 1px solid #7F9DB9;
+}
+
+.td_corpo_externo
+{
+	text-align: center;
+	vertical-align: top;
+	border: 0; 
+}
+
+.td_corpo
+{
+	width: 100%;
+	height: 306px;
+	border: none;
+}
+
+.grid
+{
+	color: #000000;
+	font: 13px "Segoe UI", Frutiger, "Frutiger Linotype", "Dejavu Sans", "Helvetica Neue", Arial, sans-serif;    /* tipo da fonte */	
+}
+
+.td_grid_miniatura
+{
+	width: 110px; 
+	padding: 0; 
+	vertical-align: top; 
+	text-align: center;	
+}
+
+.tr_grid_cabecalho
+{
+	background-color: #3d2c2e;
+}
+
+.td_grid_cabecalho
+{
+	color: #FFFFFF;
+}
+
+.td_campo 
+{
+	text-align: right;
+	background-color: #DDDDDD;
+	border: none;
+	border-top: 1px solid #cecece;
+	padding: 5px;
+	height: 18px;
+}
+
+.td_valor 
+{
+	background-color: #FFFFFF;
+	color: #000000;
+	border-top: 1px solid #eee;
+	padding: 5px;
+	text-align: left;
+}
+
+.link_valor 
+{ 
+	color: #000066; 
+	font-size: 13px; 
+	text-decoration: none; 
+	font-weight: 500;
+}  
+
+.link_valor:visited,
+.link_valor:active
+{ 
+	color: #000066;
+} 
+
+.link_valor:hover  
+{ 
+	color: #3399cc;
+} 
+
+.link_menu
+{ 
+	color: #000000; 
+	font-size: 13px; 
+	text-decoration: none; 
+}
+
+.link_menu:visited,
+.link_menu:active
+{ 
+	color: #000000; 
+}
+
+.link_menu:hover  
+{ 
+	color: #009999; 
+}
+
+.link_login
+{ 
+	color: #000000; 
+	font-size: 13px; 
+	text-decoration: none;
+	float: right; 
+}   
+
+.link_midias
+{ 
+	color: #000066;
+	font-size: 13px; 
+	text-decoration: none; 
+	font-weight: 600;
+}  
+
+.link_midias:visited,
+.link_midias:active 
+{ 
+	color: #000066; 
+} 
+
+.link_midias:hover
+{ 
+	color: #3399cc; 
+} 
+
+.destaca_palavras 
+{
+	background-color: #FFFF00;
+}
+
+.popup_cabecalho_background
+{
+	background-color: #3d2c2e;
+}
+
+.popup_cabecalho_fonte
+{
+	color: #fff;
+	line-height: 26px;
+	vertical-align: middle;
+	margin: auto;
+}
+
+
+.popup
+{
+	background-color: #fff;
+	text-align: center;
+	padding-top: 10px;
+}
+
+.esquerda
+{
+	text-align: left;
+}
+
+.centro
+{
+	text-align: center;
+}
+
+.direita 
+{
+	text-align: right;
+}
+
+.DivLogin 
+{
+    width:320px; /* Tamanho da Largura da Div */
+	height:200px; /* Tamanho da Altura da Div */
+    position:absolute; 
+    top:50%; 
+    margin-top:-100px; /* ou seja ele pega 50% da altura tela e sobe metade do valor da altura no caso 100 */
+    left:50%;
+    margin-left:-140px; /* ou seja ele pega 50% da largura tela e diminui  metade do valor da largura no caso 250 */
+    z-index: 999;
+    display: none;
+}
+
+#screen
+{
+    position: absolute;
+    left: 0;
+    top: 0;
+    background: #333;
+}
+
+.input_login 
+{ 
+	width: 130px;
+	height: 22px;
+}
+
+.button_login 
+{
+
+	width: 70px;
+}
+
+.espacamento_login
+{
+    padding-left: 10px;   
+}
+
+.nome_login
+{
+    color: #fff; 
+	font-size: 13px; 
+	text-decoration: none;
+	float: right; 
+	padding-right : 10px;   
+}
+
+#frm_pesquisa td > select {
+	width: 289px;
+}
+#frm_pesquisa td.direita {
+	padding-right: 5px;
+}
+
+input[type=checkbox]#imagem {
+	position: relative;
+	top: 2px;
+}

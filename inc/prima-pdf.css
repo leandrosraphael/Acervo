@@ -1,0 +1,172 @@
+.transparent-icon {
+	vertical-align: text-bottom;
+}
+
+.pr-pdf {
+	width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.pr-pdf .pr-pdf-header {
+	border-bottom: 2px solid #b9b9b9;
+	background-color: #e9e9e9;
+	width: 100%;
+	height: 34px;
+	position: absolute;
+    top: 0;
+}
+
+.contraste .pr-pdf .pr-pdf-header {
+    background-color: #000 !important;
+    color: #FFF;
+}
+
+.pr-pdf .pr-pdf-header .pr-pdf-header-pagination {
+	float: left;
+	margin: 5px 7px 0px 50px;
+}
+
+.pr-pdf .pr-pdf-header .pr-pdf-header-name {
+    text-align: center;
+    line-height: 34px;
+    position: absolute;
+    width: 500px;
+    margin-left: -250px;
+    left: 50%;
+}
+	
+.pr-pdf .pr-pdf-header .pr-pdf-header-pagination input {
+	width: 40px;
+}
+
+.pr-pdf .pr-pdf-header .pr-pdf-header-controls {
+	float: right;
+	margin: 5px 50px 0px 7px;
+}
+
+.pr-pdf .pr-pdf-header .pr-pdf-header-controls label {
+	position: relative;
+    top: -6px;
+}
+
+.pr-pdf .pr-pdf-header .pr-pdf-header-controls img, .pr-pdf .pr-pdf-header .pr-pdf-header-controls label {
+	display: inline-block;
+}
+
+.pr-pdf .pr-pdf-header .pr-pdf-header-controls div {
+	cursor: pointer;
+    width: 24px;
+    height: 24px;
+    display: inline-block;
+}
+
+.pr-pdf .pr-pdf-header .pr-pdf-header-controls div:hover {
+	background-color: #0080C0;
+}
+
+.pr-pdf-header-pagination > div {
+    display: inline-block;
+}
+
+.pr-pdf .pr-pdf-header .pr-pdf-header-pagination > div:first-child {
+    position: relative;
+    top: -6px;
+    margin-right: 5px;
+}
+
+.pr-pdf .pr-pdf-body {
+	width: 100%;
+	position: absolute;
+    top: 36px;
+	background-color: #DDD;
+}
+
+.contraste .pr-pdf .pr-pdf-body {
+    background-color: #000 !important;
+}
+
+.pr-pdf .pr-pdf-body .pdf-wrapper {
+	margin: 0 auto;
+    position: relative;
+	height: 100%;
+}
+
+.pr-pdf .pr-pdf-body .pdf-wrapper .container {
+    height: 100%;
+    width: 100%;
+	position: relative;
+    overflow: hidden;
+}
+
+.pr-pdf .pr-pdf-body .pdf-wrapper .container > div {
+	background-color: transparent !important;
+}
+
+.pr-pdf .pr-pdf-body .pdf-wrapper .container img {
+    -webkit-box-shadow: 0 10px 30px #999;
+    -moz-box-shadow: 0 10px 30px #999;
+    box-shadow: 0 10px 30px #999;
+	behavior: url(PIE.htc);
+}
+
+.pdf-control-prev, .pdf-control-next {
+	cursor: pointer;
+    width: 24px;
+    height: 24px;
+    display: inline-block;
+}
+
+.pdf-control-prev.side, .pdf-control-next.side {
+    position: absolute;
+	cursor: pointer;
+	top: 50%;
+	margin-top: -15px;
+    width: 30px;
+    height: 30px;
+}
+
+.pdf-control-prev.inactive, .pdf-control-next.inactive {
+    opacity: .3;
+    cursor: default !important;
+}
+
+.pdf-control-prev {
+    left: -50px;
+}
+
+.pdf-control-next {
+    right: -50px;
+}
+
+.pdf-control-prev {
+    left: -50px;
+    background-image: url(../imagens/icon-down.png);
+}
+
+.pdf-control-prev.side {
+     background-image: url(../imagens/icon-left.png);
+}
+
+.pdf-control-next {
+    right: -50px;
+    background-image: url(../imagens/icon-up.png);
+}
+
+.pdf-control-next.side {
+     background-image: url(../imagens/icon-right.png);
+}
+
+.pdf-control-zoomIn {
+    background-image: url(../imagens/icon-plus.png);
+}
+
+.pdf-control-zoomOut {
+    background-image: url(../imagens/icon-minus.png);
+}
+
+.pdf-control-expand {
+    background-image: url(../imagens/icon-expand.png);
+}

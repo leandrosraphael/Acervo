@@ -1,0 +1,401 @@
+﻿.contraste .icon-paper {
+    background-image: url(../imagens/contraste/icon-paper.png); 
+}
+
+.contraste .icon-book {
+    background-image: url(../imagens/contraste/icon-book.png); 
+}
+
+.contraste .icon-rules {
+    background-image: url(../imagens/contraste/icon-rules.png); 
+}
+
+.contraste .icon-document {
+    background-image: url(../imagens/contraste/icon-document.png); 
+}
+
+.contraste .icon-small-qrcode {
+	background-image: url(../imagens/contraste/icon-small-qrcode.png);
+}
+
+
+.contraste .icon-small-search,
+.contraste .icon-small-search-h,
+.contraste .icon-small-search-w,
+.contraste .icon-small-search-w2 {
+    background-image: url(../imagens/contraste/icon-small-search.png); 
+}
+
+.contraste .icon-small-down-b {
+    background-image: url(../imagens/contraste/icon-small-down-b.png); 
+}
+
+.contraste .icon-small-next-b,
+.contraste .icon-small-next {
+    background-image: url(../imagens/contraste/icon-small-next.png); 
+}
+
+.contraste .icon-small-delete,
+.contraste .icon-small-delete-b,
+.contraste .icon-small-delete-b-h,
+.contraste .icon-small-delete-w2 {
+    background-image: url(../imagens/contraste/icon-small-delete.png); 
+}
+
+.contraste .icon-small-previous {
+    background-image: url(../imagens/contraste/icon-small-previous.png); 
+}
+
+.contraste .icon-small-first {
+    background-image: url(../imagens/contraste/icon-small-first.png); 
+}
+
+.contraste .icon-small-last {
+    background-image: url(../imagens/contraste/icon-small-last.png); 
+}
+
+.contraste .mozilla_blu {
+    background-image: url(../imagens/contraste/mozilla_blu.gif); 
+}
+
+.contraste .icon-small-circ {
+    background-image: url(../imagens/contraste/icon-small-circ.png); 
+}
+
+.contraste .icon-small-save-b {
+    background-image: url(../imagens/contraste/icon-small-save.png); 
+}
+
+.contraste .icon-small-lamp,
+.contraste .icon-small-lamp-b,
+.contraste .icon-small-lamp-b-h {
+    background-image: url(../imagens/contraste/icon-small-lamp.png); 
+}
+
+.contraste .icon-small-newsearch {
+    background-image: url(../imagens/contraste/icon-small-newsearch.png); 
+}
+
+.contraste .icon-small-check {
+    background-image: url(../imagens/contraste/icon-small-check.png); 
+}
+
+.contraste .icon-small-star,
+.contraste .icon-small-star-b {
+    background-image: url(../imagens/contraste/icon-small-star.png); 
+}
+
+.contraste .icon-small-selecao,
+.contraste .icon-small-selecao-b {
+    background-image: url(../imagens/contraste/icon-small-selecao.png); 
+}
+
+.contraste .icon-seta-baixo {
+    background-image: url(../imagens/contraste/icon-seta-baixo.png); 
+}
+
+.contraste .icon-seta-cima {
+    background-image: url(../imagens/contraste/icon-seta-cima.png); 
+}
+
+.contraste .icon-small-back {
+	background-image: url(../imagens/contraste/icon-small-back.png); 
+}
+
+.contraste div.assuntoImg,
+.contraste span.assuntoImg {
+	background-image: url(../imagens/contraste/icon-small-Information.png);
+}
+
+.contraste div.autImg,
+.contraste span.autImg {
+	background-image: url(../imagens/contraste/icon-small-user-w.png);
+}
+
+.contraste .icon-small-digital,
+.contraste .icon-small-digital-b,
+.contraste .icon-small-digital-h {
+	background-image: url(../imagens/contraste/icon-small-digital.png);
+}
+
+.contraste .icon-small-audio,
+.contraste .icon-small-audio-h {
+	background-image: url(../imagens/contraste/icon-small-audio.png);
+}
+
+.contraste .icon-small-book-b {
+	background-image: url(../imagens/contraste/icon-small-book.png);
+}
+
+.contraste .icon-small-baloonadd,
+.contraste .icon-small-baloonadd-w {
+	background-image: url(../imagens/contraste/icon-small-baloonadd.png);
+}
+
+.contraste .icon-small-flag-b,
+.contraste .icon-small-flag-b-h,
+.contraste .icon-small-flag-x {
+	background-image: url(../imagens/contraste/icon-small-flag.png);
+}
+
+.contraste .mais-png {
+	background-image: url(../imagens/contraste/mais.png);
+}
+
+.contraste .alerta0 {
+	background-image: url(../imagens/contraste/alerta0.png);
+}
+
+.contraste .icon-small-collection,
+.contraste .icon-small-collection-h {
+	background-image: url(../imagens/contraste/icon-small-collection.png);
+}
+
+.contraste .icon-small-print,
+.contraste .icon-small-print-b-h {
+	background-image: url(../imagens/contraste/icon-small-print.png);
+}
+
+.contraste .icon-small-book-b-h {
+    background-image: url(../imagens/contraste/icon-small-book.png);
+}
+
+.contraste .barra-png {
+    background-image: url(../imagens/contraste/barra.png);
+}
+
+.contraste .icon-small-card {
+    background-image: url(../imagens/contraste/icon-small-card.png);
+}
+
+.contraste .icon-small-certidao-negativa {
+    background-image: url(../imagens/contraste/icon-small-certidao-negativa.png);
+}
+
+.contraste .icon-home {
+    background-image: url(../imagens/contraste/icon-home.png);
+}
+
+.contraste .icon-search {
+    background-image: url(../imagens/contraste/icon-search.png);
+}
+
+.contraste .icon-user {
+    background-image: url(../imagens/contraste/icon-user.png);
+}
+
+.contraste .icon-star {
+    background-image: url(../imagens/contraste/icon-star.png);
+}
+
+.contraste .icon-services {
+    background-image: url(../imagens/contraste/icon-services.png);
+}
+
+.contraste .icon-key {
+    background-image: url(../imagens/contraste/icon-key.png);
+}
+
+.contraste .icon-help {
+    background-image: url(../imagens/contraste/icon-help.png);
+}
+
+.contraste .icon-small-message {
+    background-image: url(../imagens/contraste/icon-small-message.png);
+}
+
+.contraste .icon-small-circ {
+    background-image: url(../imagens/contraste/icon-small-circ.png);
+}
+
+.contraste .icon-small-flag {
+    background-image: url(../imagens/contraste/icon-small-flag.png);
+}
+
+.contraste .icon-small-books {
+    background-image: url(../imagens/contraste/icon-small-books.png);
+}
+
+.contraste .icon-small-board {
+    background-image: url(../imagens/contraste/icon-small-board.png);
+}
+
+.contraste .icon-small-category {
+    background-image: url(../imagens/contraste/icon-small-category.png);
+}
+
+.contraste .icon-small-key {
+    background-image: url(../imagens/contraste/icon-small-key.png);
+}
+
+.contraste .icon-small-downarrow {
+    background-image: url(../imagens/contraste/icon-small-downarrow.png);
+}
+
+.contraste .icon-small-globe-w {
+    background-image: url(../imagens/contraste/icon-small-globe.png);
+}
+
+.contraste .icon-small-openfolder {
+    background-image: url(../imagens/contraste/icon-small-openfolder.png);
+}
+
+.contraste .icon-small-clear {
+    background-image: url(../imagens/contraste/icon-small-clear.png);
+}
+
+.contraste .icon-small-document,
+.contraste .icon-small-document-b,
+.contraste .icon-small-document-b-h {
+    background-image: url(../imagens/contraste/icon-small-document.png);
+}
+
+.contraste .icon-paginacao-on {
+    background-image: url(../imagens/contraste/icon-paginacao-on.png);
+}
+
+.contraste .icon-paginacao-off {
+    background-image: url(../imagens/contraste/icon-paginacao-off.png);
+}
+
+.contraste .erro {
+    background-image: url(../imagens/contraste/erro.jpg);
+}
+
+.contraste .icon-small-edit, 
+.contraste .icon-small-edit-w {
+    background-image: url(../imagens/contraste/icon-small-edit.png);
+}
+
+.contraste .icon-txt {
+    background-image: url(../imagens/contraste/icon-txt.png);
+}
+
+.contraste .icon-lattes {
+    background-image: url(../imagens/contraste/icon-lattes.png);
+}
+
+.contraste .icon-loc {
+    background-image: url(../imagens/contraste/icon-loc.png);
+}
+
+.contraste .icon-csh {
+    background-image: url(../imagens/contraste/icon-csh.png);
+}
+
+.contraste .icon-mesh {
+    background-image: url(../imagens/contraste/icon-mesh.png);
+}
+
+.contraste .icon-nal {
+    background-image: url(../imagens/contraste/icon-nal.png);
+}
+
+.contraste .icon-rvm {
+    background-image: url(../imagens/contraste/icon-rvm.png);
+}
+
+.contraste .logo_rodape_ph_esp {
+    background-image: url(../imagens/contraste/logo_rodape_ph_esp.png);
+}
+
+.contraste .logo_rodape_ph_ing {
+    background-image: url(../imagens/contraste/logo_rodape_ph_ing.png);
+}
+
+.contraste .logo_rodape_ph_eus {
+    background-image: url(../imagens/contraste/logo_rodape_ph_eus.png);
+}
+
+.contraste .logo_rodape_ph_gal {
+    background-image: url(../imagens/contraste/logo_rodape_ph_gal.png);
+}
+
+.contraste .logo_rodape_ph {
+    background-image: url(../imagens/contraste/logo_rodape_ph.png);
+}
+
+.contraste .logo_rodape {
+    background-image: url(../imagens/contraste/logo_rodape.png);
+}
+
+.contraste .icon-close {
+    background-image: url(../imagens/contraste/icon-close.png);
+}
+
+.contraste .ui-multiselect-menu .ui-icon {
+	background-image: url('../scripts/css/images/ui-icons_white.png')
+}
+
+.contraste .icon-imagem-concedida,
+.contraste .icon-imagem-concedida-b {
+    background-image: url(../imagens/contraste/icon-small-imagem-concedida-ac.png);
+}
+
+.contraste .icon-solicitar-imagem,
+.contraste .icon-solicitar-imagem-b {
+    background-image: url(../imagens/contraste/icon-small-solicitar-imagem-ac.png);
+}
+
+.contraste .pdf-control-prev {
+    background-image: url(../imagens/contraste/icon-up.png);
+}
+
+.contraste .pdf-control-prev.side {
+     background-image: url(../imagens/contraste/icon-left.png);
+}
+
+.contraste .pdf-control-next {
+    background-image: url(../imagens/contraste/icon-up.png);
+}
+
+.contraste .pdf-control-next.side {
+    background-image: url(../imagens/contraste/icon-right.png);
+}
+
+.contraste .pdf-control-zoomIn {
+    background-image: url(../imagens/contraste/icon-plus.png);
+}
+
+.contraste .pdf-control-zoomOut {
+    background-image: url(../imagens/contraste/icon-minus.png);
+}
+
+.contraste .pdf-control-expand {
+    background-image: url(../imagens/contraste/icon-expand.png);
+}
+
+.contraste .icon-rt-online {
+    background-image: url(../imagens/contraste/icon-rt-online-contraste.png);
+}
+.contraste .icon-book-lb {
+    background-image: url(../imagens/contraste/icon-book_lb.png);
+}
+
+.contraste .icon-book-up {
+    background-image: url(../imagens/contraste/icon-book-up.png);
+}
+
+.contraste .icon-book-down {
+    background-image: url(../imagens/contraste/icon-book-down.png);
+}
+
+.contraste .icon-key-login {
+	background-image: url(../imagens/contraste/icon-key.png);
+}
+
+.contraste .icon-indicadores {
+	background-image: url(../imagens/contraste/icon-indicadores-contraste.png);
+}
+
+.contraste .icon-trabalho-graduacao {
+	background-image: url(../imagens/contraste/icon-trabalho-graduacao.png);
+}
+
+.contraste .icon-tese-dissertacao {
+	background-image: url(../imagens/contraste/icon-tese-dissertacao.png);
+}
+
+.contraste .icon-links-uteis {
+	background-image: url(../imagens/contraste/icon-links-uteis.png);
+}

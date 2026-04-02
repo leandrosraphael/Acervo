@@ -1,0 +1,101 @@
+﻿body {
+	background-color: #fff;
+	margin: 0;
+	height: 100%;
+}
+
+.principal {
+	height: 100%;
+	font-family: sans-serif;
+	font-size: 14px;
+}
+
+.info-emprestimos {
+	height: 100%;
+	width: 100%;
+	overflow: hidden;
+}
+
+.emprestimo {
+	width: 70%;
+	padding: 10px;
+	border-right: 1px solid #666;
+	box-sizing: border-box;
+	float: left;
+}
+
+	.emprestimo ol {
+		margin-top: 15px;
+		margin-bottom: 15px;
+	}
+
+.configuracao {
+	width: 30%;
+	padding: 10px;
+	box-sizing: border-box;
+	float: left;
+}
+
+	.configuracao a, .atencao img {
+		display: table;
+		margin: 0 auto;
+	}
+
+		.configuracao a img {
+			content: url("../imagens/adobedigitaleditions.png");
+		}
+
+.info-aviso {
+	width: 60%;
+	margin-left: 20%;
+	border: 2px solid #ff862c;
+	background-color: #ffe2cf;
+	clear: both;
+	padding: 10px;
+	margin-top: 20px;
+}
+
+	.info-aviso div:first-child {
+		width: 15%;
+		display: inline-block;
+	}
+
+		.info-aviso div:first-child img {
+			content: url("../imagens/atencao.png");
+		}
+
+	.info-aviso div:last-child {
+		width: 84%;
+		display: inline-block;
+	}
+
+		.info-aviso div:last-child p {
+			margin: 0;
+		}
+
+.area-botoes {
+	text-align: center;
+	position: absolute;
+	bottom: 0px;
+	width: 100%;
+}
+
+.mensagem-fgv {
+	padding: 10px;
+}
+
+	.mensagem-fgv p {
+		text-align: center;
+		font-weight: bold;
+	}
+
+
+.frame-fgv {
+	height: 90%;
+	width: 100%;
+	border: none;
+}
+
+.frame-fgv html {
+	width: inherit !important;
+}

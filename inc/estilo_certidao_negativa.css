@@ -1,0 +1,133 @@
+﻿
+body, table, tr, td, p, font, a, select 
+{ 
+    font-family: "Segoe UI", Frutiger, "Frutiger Linotype", "Dejavu Sans", "Helvetica Neue", Arial, sans-serif;
+}
+
+input[type='text'],
+input[type='password']
+{
+	font-size: 13px;
+	font-family: "Segoe UI", Frutiger, "Frutiger Linotype", "Dejavu Sans", "Helvetica Neue", Arial, sans-serif !important;
+	border: 1px solid #006699;
+}
+
+input[type='button']
+{ 
+	font-size: 13px;
+	font-family: "Segoe UI", Frutiger, "Frutiger Linotype", "Dejavu Sans", "Helvetica Neue", Arial, sans-serif !important;
+	border: 1px solid #aaaaaa;
+	background-color: #fff;
+	color: #000000;
+}
+
+textarea 
+{ 
+	font-size: 13px;
+	font-family: "Segoe UI", Frutiger, "Frutiger Linotype", "Dejavu Sans", "Helvetica Neue", Arial, sans-serif !important;
+	border: 1px solid #006699;
+}
+
+select
+{
+	border: 1px solid #006699;
+}
+
+.tab_div
+{
+    background-color: #f2f2f2;
+}
+
+.td_cabecalho
+{
+	background-image: url(../imagens/banner.png);
+    background-position: center center;
+}
+
+.span-menu-item {
+    background-color: #0070C0;
+}
+
+.td_home
+{
+	background-image: url(../imagens/background.jpg);
+}
+
+.link_menu1:link,
+.link_menu1:visited,
+.link_menu1:active
+{ 
+    color: #FFFFFF;
+    font-weight: 400;
+}
+
+.link_menu1:hover  
+{ 
+    color: #00FFFF;
+    font-weight: 400;
+}
+
+.link_menu2:link,
+.link_menu2:visited,
+.link_menu2:active
+{ 
+    color: #00FFFF;
+    font-weight: 400;
+}
+
+.link_menu2:hover  
+{ 
+    color: #00FFFF;
+    font-weight: 400;
+}
+
+.link_prima:link,
+.link_prima:visited
+{
+    color: #000000;
+}
+
+.link_prima:active,
+.link_prima:hover
+{
+    color: #009999;
+}
+
+.link_serv:link,
+.link_serv:visited
+{ 
+    color: #000000;
+}
+
+.link_serv:hover,
+.link_serv:active
+{ 
+    color: #009999;
+}
+
+.popup_cabecalho_background
+{
+    background-color: #0070c0;
+}
+
+.popup_cabecalho_fonte
+{
+	color: #FFFFFF;
+}
+
+	.popup_cabecalho_fonte > span
+	{
+		font-size: 13px;
+	}
+
+.td_col_grid
+{ 
+    background-color: #DBDFDE;
+}
+
+.icon-close {
+	display: inline-block;
+	width: 16px;
+	height: 16px;
+	background-image: url(../imagens/padrao/icon-close.png);
+}

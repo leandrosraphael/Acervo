@@ -1,0 +1,103 @@
+﻿* {
+	font-family: Segoe UI, Tahoma, Sans-Serif !important;
+}
+
+.panelbar-acelerador-uma-coluna {
+    width: 100%;
+}
+
+.panelbar-acelerador-duas-colunas {
+    width: 481px;
+}
+
+.panelbar-acelerador-tres-colunas {
+    width: 318px;
+}
+
+div#div-aceleradores-busca {
+    margin-bottom: 15px;
+    height: 186px;
+}
+
+div#div-aceleradores-busca > div.div-acelerador-busca {
+    float: left;
+}
+
+div#div-aceleradores-busca > div.div-acelerador-busca:not(:last-child) {
+    margin-right: 8px;
+}
+
+div#div-aceleradores-busca > div.div-acelerador-busca div.linha {
+    min-height: 30px;
+    line-height: 30px;
+    border-bottom: 1px solid #dadada;
+}
+
+div#div-aceleradores-busca > div.div-acelerador-busca > div.titulo-acelerador-busca {
+    background-color: #0070c0;
+    color: #FFF;
+    text-align: left;
+}
+
+div#div-aceleradores-busca > div.div-acelerador-busca > div.corpo-acelerador-busca {
+    overflow-y: auto;
+    max-height: 155px;
+    min-height: 155px;
+    width: 100%;
+    background-color: #FFF;
+}
+
+div#div-aceleradores-busca > div.div-acelerador-busca > div.corpo-acelerador-busca > div#conteudo-tese-dissertacao {
+    text-align: left;
+    padding: 10px;
+}
+
+div#div-aceleradores-busca > div.div-acelerador-busca > div.corpo-acelerador-busca > div#conteudo-tese-dissertacao span {
+    text-align: left;
+    padding: 0px;
+}
+
+div#div-aceleradores-busca > div.div-acelerador-busca > div.corpo-acelerador-busca > div.linha > div {
+    float: left;
+}
+
+div#div-aceleradores-busca > div.div-acelerador-busca > div.corpo-acelerador-busca > div.linha:hover {
+    background-color: #e6e6e6;
+}
+
+div#div-aceleradores-busca > div.div-acelerador-busca > div.corpo-acelerador-busca > div.linha:after {
+    content: "";
+    clear: both;
+    display: block;
+}
+
+div#div-aceleradores-busca > div.div-acelerador-busca > div.corpo-acelerador-busca > div.linha {
+    cursor: pointer;
+}
+
+div#div-aceleradores-busca > div.div-acelerador-busca > div.corpo-acelerador-busca > div.linha > div:first-child > span {
+    display: block;
+    max-width: 100%;
+}
+
+div#div-aceleradores-busca > div.div-acelerador-busca > div.corpo-acelerador-busca > div.linha > div > span {
+    color: #787878;
+}
+
+div#div-aceleradores-busca > div.div-acelerador-busca > div.corpo-acelerador-busca > div.linha:hover > div > span {
+    color: #FFF
+}
+
+div#div-aceleradores-busca > div.div-acelerador-busca > div.corpo-acelerador-busca > div.linha > div:first-child {
+    width: 80%;
+}
+
+div#div-aceleradores-busca > div.div-acelerador-busca span {
+    padding: 0 10px;
+    text-align: left;
+}
+
+div#div-aceleradores-busca > div.div-acelerador-busca > div.corpo-acelerador-busca > div.linha > div:last-child {
+    width: 20%;
+    text-align: right;
+}
